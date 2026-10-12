@@ -1,0 +1,6 @@
+{
+  "name": "אבא חטוב AI — מאמן תזונה אישי",
+  "description": "אפליקציית Web אישית לאבי: תכנון ודיווח ארוחות, מעקב מסלול הניקוי של אבא חטוב, מדדי הרכב גוף, ומאמן AI אינטראקטיבי המחובר לנתונים",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
